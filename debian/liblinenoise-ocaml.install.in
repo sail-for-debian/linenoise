@@ -1,0 +1,5 @@
+@OCamlDllDir@/dll*.so
+@OCamlStdlibDir@/linenoise/META
+@OCamlStdlibDir@/linenoise/*.cma
+DYN: @OCamlStdlibDir@/linenoise/*.cmxs
+

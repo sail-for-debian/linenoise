@@ -1,0 +1,8 @@
+@OCamlStdlibDir@/linenoise/*opam*
+@OCamlStdlibDir@/linenoise/*dune*
+@OCamlStdlibDir@/linenoise/*.ml*
+@OCamlStdlibDir@/linenoise/*.cmi
+@OCamlStdlibDir@/linenoise/*.cmt*
+@OCamlStdlibDir@/linenoise/*.a
+OPT: @OCamlStdlibDir@/linenoise/*.cmx
+OPT: @OCamlStdlibDir@/linenoise/*.cmxa

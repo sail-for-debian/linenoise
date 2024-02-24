@@ -1,0 +1,5 @@
+ocaml-linenoise (1.5-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+
+ -- Bo YU <tsu.yubo@gmail.com>  Sat, 24 Feb 2024 21:37:03 +0800
